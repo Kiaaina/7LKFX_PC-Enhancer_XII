@@ -7,6 +7,6 @@ cls
 
 :top
 start https://mega.nz/folder/sPMB0DjS#br799ou9TqHjYTH2-FLn3w
-echo Mega
-(timeout /t 7) > nul
+echo Mega_By_Kia7L...
+(timeout /t 5) > nul
 exit
